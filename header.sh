@@ -1,3 +1,3 @@
 #!/bin/bash
 
-PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+PROJECT_ROOT="$(dirname "$PROJECT_SCRIPT_ROOT")"
