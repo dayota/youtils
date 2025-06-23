@@ -3,7 +3,7 @@
 # =============================================================================
 # SSL/TLS Certificate Functions
 # =============================================================================
-# Fonctions réutilisables pour la génération et gestion des certificats SSL/TLS
+# Fonctions pour la génération et gestion des certificats SSL/TLS
 # Peut être sourcé dans d'autres scripts pour la gestion des certificats
 # =============================================================================
 
